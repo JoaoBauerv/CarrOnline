@@ -37,14 +37,5 @@ CarrOnline é uma plataforma simples para exibição de veículos à venda. Dese
    npm start
    ```
 
-## 📷 Prévia do Projeto
 
-A imagem acima mostra uma prévia da tela principal com os veículos listados.
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/seu-usuario)
