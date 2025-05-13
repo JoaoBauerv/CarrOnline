@@ -3,7 +3,7 @@
 
 CarrOnline é uma plataforma simples para exibição de veículos à venda. Desenvolvido como projeto de demonstração, ele lista veículos com informações como modelo, marca, ano, quilometragem, e valor.
 
-![CarrOnline Screenshot](./f6bc7cb8-d848-4938-8659-8b2af7e10b17.png)
+![CarrOnline Screenshot](./previaprojeto.png)
 
 ## 🔧 Funcionalidades
 
