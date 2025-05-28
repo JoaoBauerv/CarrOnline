@@ -32,7 +32,11 @@ CarrOnline é uma plataforma simples para exibição de veículos à venda. Dese
    npm install
    ```
 
-3. Inicie o projeto:
+3. Crie um storage para as imagens
+    ```bash
+   php artisan storage:link
+    ```
+4. Inicie o projeto:
    ```bash
    npm start
    ```
